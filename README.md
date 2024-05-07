@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu npme é ProfElisangela1
+Meu nome é ProfElisangela1
 
 - Estou estudandando na [Alura] (https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
